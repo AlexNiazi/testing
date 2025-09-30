@@ -1,0 +1,586 @@
+path,true_idx,true_label,pred_idx,pred_label,pred_prob
+15_data_copy/Normal/09fcb8df3124075af036d5d3c7baf4_big_gallery.jpeg,0,Normal,0,Normal,0.8945
+15_data_copy/Normal/06ef0176098202e137466b1c4c4dfa_big_gallery.jpeg,0,Normal,0,Normal,0.7646
+15_data_copy/Normal/02ac46b7eab4a327a468b0f26d17c9_big_gallery.jpeg,0,Normal,0,Normal,0.9277
+15_data_copy/Normal/2022-06-13 09_37_58-Normal MRI brain _ Radiology Case _ Radiopaedia.org.jpg,0,Normal,0,Normal,0.9233
+15_data_copy/Normal/2022-06-13 09_37_53-Normal MRI brain _ Radiology Case _ Radiopaedia.org.jpg,0,Normal,0,Normal,0.9224
+15_data_copy/Normal/2022-06-10 17_14_53-Normal MRI head - 3-years-old _ Radiology Case _ Radiopaedia.org.jpg,0,Normal,0,Normal,0.831
+15_data_copy/Normal/2022-06-10 17_13_14-Normal MRI head - 3-years-old _ Radiology Case _ Radiopaedia.org.jpg,0,Normal,0,Normal,0.931
+15_data_copy/Normal/2022-06-10 17_13_09-Normal MRI head - 3-years-old _ Radiology Case _ Radiopaedia.org.jpg,0,Normal,0,Normal,0.9517
+15_data_copy/Normal/2188a396cc6ca588e6e462c519df73_big_gallery.jpeg,0,Normal,0,Normal,0.9497
+15_data_copy/Normal/2022-06-13 09_38_30-Normal MRI brain _ Radiology Case _ Radiopaedia.org.jpg,0,Normal,0,Normal,0.8945
+15_data_copy/Normal/2022-06-13 09_38_29-Normal MRI brain _ Radiology Case _ Radiopaedia.org.jpg,0,Normal,0,Normal,0.9136
+15_data_copy/Normal/2022-06-13 09_38_16-Normal MRI brain _ Radiology Case _ Radiopaedia.org.jpg,0,Normal,0,Normal,0.8955
+15_data_copy/Normal/2022-06-13 09_38_11-Normal MRI brain _ Radiology Case _ Radiopaedia.org.jpg,0,Normal,0,Normal,0.904
+15_data_copy/Normal/4d2cab2574ff9c02462d33c7d63762_big_gallery.jpeg,0,Normal,0,Normal,0.933
+15_data_copy/Normal/46e176a22414929b51487f074cd111_big_gallery.jpeg,0,Normal,0,Normal,0.889
+15_data_copy/Normal/45e2f9fb02bb502ef08e75cd578b36_big_gallery.jpeg,0,Normal,0,Normal,0.875
+15_data_copy/Normal/45d46b4122d18e043baeff01ea0c43_big_gallery.jpeg,0,Normal,0,Normal,0.907
+15_data_copy/Normal/4459d0a5dc5bd8e3a8f4e759628d21_big_gallery.jpeg,0,Normal,0,Normal,0.9033
+15_data_copy/Normal/3e7ea84b812afc105281443156629b_big_gallery.jpeg,0,Normal,0,Normal,0.946
+15_data_copy/Normal/3cfef1f912857fd2adb0498c2a784e_big_gallery.jpeg,0,Normal,0,Normal,0.935
+15_data_copy/Normal/39393a4882826a45e89f49da9c5a53_big_gallery.jpeg,0,Normal,0,Normal,0.9136
+15_data_copy/Normal/3447b64d96ad7ff8da023ab363554d_big_gallery.jpeg,0,Normal,0,Normal,0.9336
+15_data_copy/Normal/702e642cbb6dd5d45a146c917118a9_big_gallery.jpeg,0,Normal,0,Normal,0.9395
+15_data_copy/Normal/6f63bec9d3b8ebb46401667f6136c8_big_gallery.jpeg,0,Normal,0,Normal,0.922
+15_data_copy/Normal/6140a2efce934adfccf7357810a27d_big_gallery.jpeg,0,Normal,0,Normal,0.941
+15_data_copy/Normal/5c7c63dd2294b80f104ca67025a57b_big_gallery.jpeg,0,Normal,0,Normal,0.931
+15_data_copy/Normal/5412314a71ece537518e8596d45508_big_gallery.jpeg,0,Normal,0,Normal,0.9233
+15_data_copy/Normal/4e693250f255d937b30edf96e07c12_big_gallery.jpeg,0,Normal,0,Normal,0.963
+15_data_copy/Normal/94f4d6ed41a9098a23de134b178e9e_big_gallery.jpeg,0,Normal,0,Normal,0.917
+15_data_copy/Normal/8f45af8d7c581cfb2bbb5ac11470b6_big_gallery.jpeg,0,Normal,0,Normal,0.773
+15_data_copy/Normal/8abf4540607e91a8915b871ada5652_big_gallery.jpeg,0,Normal,0,Normal,0.895
+15_data_copy/Normal/83013fc327babc852e0f2d0f31fad1_big_gallery.jpeg,0,Normal,0,Normal,0.871
+15_data_copy/Normal/7fab45149196f1905e926868ffa8ec_big_gallery.jpeg,0,Normal,0,Normal,0.9272
+15_data_copy/Normal/7ee57723544719d80ec991bc6516c1_big_gallery.jpeg,0,Normal,0,Normal,0.905
+15_data_copy/Normal/7d12744c038ddcf4c6db7a2797f7a8_big_gallery.jpeg,0,Normal,0,Normal,0.9204
+15_data_copy/Normal/Normal (137).jpeg,0,Normal,0,Normal,0.9062
+15_data_copy/Normal/Normal (117).jpeg,0,Normal,0,Normal,0.93
+15_data_copy/Normal/Normal (116).jpeg,0,Normal,0,Normal,0.888
+15_data_copy/Normal/9d3d1ff3d4d1fe6d9cdaa40629e8cb_big_gallery.jpeg,0,Normal,0,Normal,0.922
+15_data_copy/Normal/Normal (21).jpg,0,Normal,0,Normal,0.9224
+15_data_copy/Normal/Normal (173).jpeg,0,Normal,0,Normal,0.9077
+15_data_copy/Normal/Normal (169).jpeg,0,Normal,0,Normal,0.907
+15_data_copy/Normal/Normal (148).jpeg,0,Normal,0,Normal,0.646
+15_data_copy/Normal/Normal (142).jpeg,0,Normal,0,Normal,0.9116
+15_data_copy/Normal/Normal (54).jpeg,0,Normal,0,Normal,0.922
+15_data_copy/Normal/Normal (51).jpeg,0,Normal,0,Normal,0.8945
+15_data_copy/Normal/Normal (50).jpeg,0,Normal,0,Normal,0.773
+15_data_copy/Normal/Normal (44).jpg,0,Normal,0,Normal,0.8955
+15_data_copy/Normal/Normal (43).jpeg,0,Normal,0,Normal,0.905
+15_data_copy/Normal/Normal (41).jpeg,0,Normal,0,Normal,0.9204
+15_data_copy/Normal/Normal (39).jpg,0,Normal,0,Normal,0.904
+15_data_copy/Normal/Normal (34).jpeg,0,Normal,0,Normal,0.7646
+15_data_copy/Normal/Normal (26).jpg,0,Normal,0,Normal,0.9233
+15_data_copy/Normal/Normal (7).jpg,0,Normal,0,Normal,0.831
+15_data_copy/Normal/Normal (63).jpeg,0,Normal,0,Normal,0.875
+15_data_copy/Normal/Normal (57).jpg,0,Normal,0,Normal,0.8945
+15_data_copy/Normal/Normal (56).jpg,0,Normal,0,Normal,0.9136
+15_data_copy/Normal/c274da22b3b6fd097caf87f96f88ef_big_gallery.jpeg,0,Normal,0,Normal,0.9062
+15_data_copy/Normal/bd937738ad6223a03f8aedcf4920a7_big_gallery.jpeg,0,Normal,0,Normal,0.8457
+15_data_copy/Normal/b577ff1b56235599620c928d397407_big_gallery.jpeg,0,Normal,0,Normal,0.9585
+15_data_copy/Normal/b45e6353b754b2e53a7260ac73cdff_big_gallery.jpeg,0,Normal,0,Normal,0.913
+15_data_copy/Normal/b13d58314989d1794b144f1bd3240d_big_gallery.jpeg,0,Normal,0,Normal,0.932
+15_data_copy/Normal/a8fc79b5405944b43b4a544605a3ab_big_gallery.jpeg,0,Normal,0,Normal,0.93
+15_data_copy/Normal/a5e1e3151740b2b584269b0f3cc852_big_gallery.jpeg,0,Normal,0,Normal,0.888
+15_data_copy/Normal/Normal (99).jpeg,0,Normal,0,Normal,0.9033
+15_data_copy/Normal/e8ec5075c324ac6ddea5165a3f8bd7_big_gallery.jpeg,0,Normal,0,Normal,0.9214
+15_data_copy/Normal/df5c8130644c88d5001d3bd0f96bd1_big_gallery.jpeg,0,Normal,0,Normal,0.9136
+15_data_copy/Normal/d5462ac5fe2272485867473468c9ff_big_gallery.jpeg,0,Normal,0,Normal,0.944
+15_data_copy/Normal/cdc8af52851dc1796dd2e8f747b6b5_big_gallery.jpeg,0,Normal,0,Normal,0.646
+15_data_copy/Normal/c54617b3d769a9fcc9ddee9260055e_big_gallery.jpeg,0,Normal,0,Normal,0.9116
+15_data_copy/Normal/f7719d22da122b98bfbda305940ed2_big_gallery.jpeg,0,Normal,0,Normal,0.951
+15_data_copy/Normal/f46fa8effb34abb1a33a98929b03e9_big_gallery.jpeg,0,Normal,0,Normal,0.9473
+15_data_copy/Normal/f08d1a43dbd6787e018fca4eaac463_big_gallery.jpeg,0,Normal,0,Normal,0.9077
+15_data_copy/Normal/ec59a2af98a96b0491fa97812481a1_big_gallery.jpeg,0,Normal,0,Normal,0.907
+15_data_copy/Astrocitoma/fa4a29a7a1df280fa6e7aa5a0ad065_big_gallery.jpeg,1,Astrocitoma,1,Astrocitoma,0.906
+15_data_copy/Astrocitoma/f998832b0772a71cf875293dad705d8621f039dc6afd224c0510b812fff3963c_big_gallery.jpeg,1,Astrocitoma,1,Astrocitoma,0.911
+15_data_copy/Astrocitoma/f683c8d536c37b36eb2e5669ce39b0_big_gallery.jpeg,1,Astrocitoma,1,Astrocitoma,0.8213
+15_data_copy/Astrocitoma/f4741348e30dea8d435f7a2b6c3674584d7e63267fbb35d7d8f67ae09594c8d2_big_gallery.jpeg,1,Astrocitoma,1,Astrocitoma,0.912
+15_data_copy/Astrocitoma/f3793537c40bdde9b0e1bd82bb194e_big_gallery.jpeg,1,Astrocitoma,1,Astrocitoma,0.9067
+15_data_copy/Astrocitoma/export--689458607_big_gallery.jpeg,1,Astrocitoma,1,Astrocitoma,0.6704
+15_data_copy/Astrocitoma/export--689458606_big_gallery.jpeg,1,Astrocitoma,1,Astrocitoma,0.9004
+15_data_copy/Astrocitoma/export--689458600_big_gallery.jpeg,1,Astrocitoma,1,Astrocitoma,0.9053
+15_data_copy/Astrocitoma/eea036b60cf240d09e422ed55941c2_big_gallery.jpeg,1,Astrocitoma,1,Astrocitoma,0.5967
+15_data_copy/Astrocitoma/e5453c06a42a63726edd1a9e069c56_big_gallery.jpeg,1,Astrocitoma,1,Astrocitoma,0.8594
+15_data_copy/Astrocitoma/dc0967812e1cb8b03e3c8ad1d9d1d9_big_gallery.jpeg,1,Astrocitoma,1,Astrocitoma,0.9277
+15_data_copy/Astrocitoma/d8a9d5a0c61a3358002dd3aa3e6965_big_gallery.jpg,1,Astrocitoma,1,Astrocitoma,0.8887
+15_data_copy/Astrocitoma/d5b5b67f638204fd9c6fdb79ee7975_big_gallery.jpg,1,Astrocitoma,1,Astrocitoma,0.8726
+15_data_copy/Astrocitoma/cde799199cbb9c3b569fc5d5f273e7_big_gallery.jpeg,1,Astrocitoma,1,Astrocitoma,0.8833
+15_data_copy/Astrocitoma/beb7b5617ddf0439afa4c6b495aa68_big_gallery.jpeg,1,Astrocitoma,0,Normal,0.878
+15_data_copy/Astrocitoma/b45200459413791ec2532e78108c17_big_gallery.jpeg,1,Astrocitoma,1,Astrocitoma,0.8853
+15_data_copy/Astrocitoma/b3163fb25a0dbcf470c0f827b9c468_big_gallery.jpg,1,Astrocitoma,1,Astrocitoma,0.9
+15_data_copy/Astrocitoma/astro_infraT (9).jpeg,1,Astrocitoma,1,Astrocitoma,0.8467
+15_data_copy/Astrocitoma/astro_infraT (20).jpeg,1,Astrocitoma,1,Astrocitoma,0.8916
+15_data_copy/Astrocitoma/astro_infraT (18).jpeg,1,Astrocitoma,1,Astrocitoma,0.8467
+15_data_copy/Astrocitoma/astro_infraT (16).jpeg,1,Astrocitoma,1,Astrocitoma,0.8916
+15_data_copy/Astrocitoma/astro_infraT (15).jpg,1,Astrocitoma,1,Astrocitoma,0.9365
+15_data_copy/Astrocitoma/af2875f6ba23ceb22801fc8147ee5b_big_gallery.jpg,1,Astrocitoma,1,Astrocitoma,0.878
+15_data_copy/Astrocitoma/IMG-0007-00013_big_gallery.jpeg,1,Astrocitoma,1,Astrocitoma,0.9253
+15_data_copy/Astrocitoma/IMG-0004-00012_big_gallery.jpeg,1,Astrocitoma,1,Astrocitoma,0.904
+15_data_copy/Astrocitoma/IMG-0001-00003_big_gallery.jpeg,1,Astrocitoma,8,Meduloblastoma,0.804
+15_data_copy/Astrocitoma/Astrocitoma (97).jpeg,1,Astrocitoma,1,Astrocitoma,0.8853
+15_data_copy/Astrocitoma/Astrocitoma (85).jpeg,1,Astrocitoma,1,Astrocitoma,0.8916
+15_data_copy/Astrocitoma/Astrocitoma (83).jpeg,1,Astrocitoma,1,Astrocitoma,0.8467
+15_data_copy/Astrocitoma/Astrocitoma (81).jpeg,1,Astrocitoma,1,Astrocitoma,0.8916
+15_data_copy/Astrocitoma/Astrocitoma (74).jpeg,1,Astrocitoma,1,Astrocitoma,0.8467
+15_data_copy/Astrocitoma/Astrocitoma (6).jpg,1,Astrocitoma,1,Astrocitoma,0.836
+15_data_copy/Astrocitoma/Astrocitoma (45).jpg,1,Astrocitoma,1,Astrocitoma,0.9365
+15_data_copy/Astrocitoma/Astrocitoma (4).jpg,1,Astrocitoma,1,Astrocitoma,0.85
+15_data_copy/Astrocitoma/Astrocitoma (30).jpeg,1,Astrocitoma,1,Astrocitoma,0.888
+15_data_copy/Astrocitoma/Astrocitoma (22).jpeg,1,Astrocitoma,1,Astrocitoma,0.8823
+15_data_copy/Astrocitoma/Astrocitoma (20).jpeg,1,Astrocitoma,1,Astrocitoma,0.8506
+15_data_copy/Astrocitoma/Astrocitoma (119).jpeg,1,Astrocitoma,1,Astrocitoma,0.906
+15_data_copy/Astrocitoma/Astrocitoma (116).jpeg,1,Astrocitoma,1,Astrocitoma,0.9067
+15_data_copy/Astrocitoma/Astrocitoma (107).jpeg,1,Astrocitoma,1,Astrocitoma,0.8594
+15_data_copy/Astrocitoma/9eee2a4a464cd008d25868cc48106c_big_gallery.jpeg,1,Astrocitoma,1,Astrocitoma,0.888
+15_data_copy/Astrocitoma/915ac6b86f7ca21449241901cb8bdb_big_gallery.jpg,1,Astrocitoma,1,Astrocitoma,0.8066
+15_data_copy/Astrocitoma/8ee5ed841ea3cac07290f135819adc_big_gallery.jpeg,1,Astrocitoma,1,Astrocitoma,0.8896
+15_data_copy/Astrocitoma/8ce0ceb4f5d67644463a8c5446a736_big_gallery.jpeg,1,Astrocitoma,1,Astrocitoma,0.8823
+15_data_copy/Astrocitoma/8ac59f9287fb07a2c11ebee729c163_big_gallery.jpg,1,Astrocitoma,1,Astrocitoma,0.85
+15_data_copy/Astrocitoma/878dddce95d254f36973e91d946c32f1ccd5d2c86ea05ee104d70cfd652a6574_big_gallery.jpeg,1,Astrocitoma,1,Astrocitoma,0.904
+15_data_copy/Astrocitoma/798bcfdaf719781fd4c1b8195c89c8_big_gallery.jpg,1,Astrocitoma,1,Astrocitoma,0.8403
+15_data_copy/Astrocitoma/75c78f47dbb7dda2c372a371106457e501db1e76cde1c69afb834a21684c41c3_big_gallery.jpeg,1,Astrocitoma,1,Astrocitoma,0.8755
+15_data_copy/Astrocitoma/74797d1ba15d11a55fae9538e0f532_big_gallery.jpg,1,Astrocitoma,1,Astrocitoma,0.904
+15_data_copy/Astrocitoma/6a26da1bf18238c4143b8beec9d6bd_big_gallery.jpeg,1,Astrocitoma,1,Astrocitoma,0.8926
+15_data_copy/Astrocitoma/60064b6f693cddbca8289be195ddd6a62152205063cfacfd60832aaeee223e7c_big_gallery.jpeg,1,Astrocitoma,1,Astrocitoma,0.8955
+15_data_copy/Astrocitoma/5f8cae5b4e1c82ec943d312a18159749dc2f8e7d2efcea3e3de36fab85f7cd22_big_gallery.jpeg,1,Astrocitoma,1,Astrocitoma,0.9155
+15_data_copy/Astrocitoma/5ae77565c80ab37342ee78017d3562_big_gallery.jpeg,1,Astrocitoma,1,Astrocitoma,0.8506
+15_data_copy/Astrocitoma/4e2e965e420e0162fb413d6e12abac_big_gallery.jpeg,1,Astrocitoma,1,Astrocitoma,0.6357
+15_data_copy/Astrocitoma/3cd4eed5fa161338f67d43ab85ff34_big_gallery.jpeg,1,Astrocitoma,0,Normal,0.681
+15_data_copy/Astrocitoma/30b9c1b831295ad3cacf950c9f634e_big_gallery.jpeg,1,Astrocitoma,1,Astrocitoma,0.7456
+15_data_copy/Astrocitoma/2022-06-08 14_09_58-Window.jpg,1,Astrocitoma,1,Astrocitoma,0.915
+15_data_copy/Astrocitoma/2022-06-08 14_09_51-Window.jpg,1,Astrocitoma,1,Astrocitoma,0.9355
+15_data_copy/Astrocitoma/2022-06-07 13_47_09-Window.jpg,1,Astrocitoma,1,Astrocitoma,0.919
+15_data_copy/Astrocitoma/2022-06-07 13_46_59-Window.jpg,1,Astrocitoma,1,Astrocitoma,0.8945
+15_data_copy/Astrocitoma/2022-06-07 13_46_56-Window.jpg,1,Astrocitoma,1,Astrocitoma,0.8843
+15_data_copy/Astrocitoma/2022-06-07 13_46_51-Window.jpg,1,Astrocitoma,1,Astrocitoma,0.7764
+15_data_copy/Astrocitoma/2022-06-07 13_46_19-Window.jpg,1,Astrocitoma,1,Astrocitoma,0.9355
+15_data_copy/Astrocitoma/2022-06-07 13_31_21-Window.jpg,1,Astrocitoma,1,Astrocitoma,0.6753
+15_data_copy/Astrocitoma/2022-06-07 13_30_56-Window.jpg,1,Astrocitoma,1,Astrocitoma,0.825
+15_data_copy/Astrocitoma/2022-06-07 13_30_52-Window.jpg,1,Astrocitoma,1,Astrocitoma,0.8237
+15_data_copy/Astrocitoma/2022-06-07 13_29_56-Window.jpg,1,Astrocitoma,1,Astrocitoma,0.836
+15_data_copy/Astrocitoma/2022-06-07 13_29_19-Window.jpg,1,Astrocitoma,1,Astrocitoma,0.865
+15_data_copy/Astrocitoma/1bdbaaaeb4462aef10df74be377c96_big_gallery.jpeg,1,Astrocitoma,0,Normal,0.6006
+15_data_copy/Astrocitoma/14fda1ba9c19ffff35499fcd62752d_big_gallery.jpeg,1,Astrocitoma,1,Astrocitoma,0.933
+15_data_copy/Astrocitoma/111_big_gallery copy.jpeg,1,Astrocitoma,1,Astrocitoma,0.9004
+15_data_copy/Astrocitoma/0efabbe6953569fb6ee340fe69ae51368cc5feb5eb9e9634a61d4337a6f41d27_big_gallery.jpeg,1,Astrocitoma,1,Astrocitoma,0.907
+15_data_copy/Astrocitoma/010_big_gallery.jpeg,1,Astrocitoma,1,Astrocitoma,0.9136
+15_data_copy/Carcinoma/k.jpeg,2,Carcinoma,2,Carcinoma,0.9507
+15_data_copy/Carcinoma/jutyhrggth.jpeg,2,Carcinoma,2,Carcinoma,0.954
+15_data_copy/Carcinoma/i.jpeg,2,Carcinoma,2,Carcinoma,0.947
+15_data_copy/Carcinoma/etyh.jpeg,2,Carcinoma,2,Carcinoma,0.9526
+15_data_copy/Carcinoma/a4e6cf5edde0ec10c4052d8d77f9d8_big_gallery.jpg,2,Carcinoma,2,Carcinoma,0.9106
+15_data_copy/Carcinoma/Carcinoma (5).jpg,2,Carcinoma,2,Carcinoma,0.908
+15_data_copy/Carcinoma/Carcinoma (34).jpeg,2,Carcinoma,2,Carcinoma,0.946
+15_data_copy/Carcinoma/Carcinoma (17).jpeg,2,Carcinoma,2,Carcinoma,0.9336
+15_data_copy/Carcinoma/Carcinoma (16).jpeg,2,Carcinoma,2,Carcinoma,0.929
+15_data_copy/Carcinoma/Carcinoma (15).jpeg,2,Carcinoma,2,Carcinoma,0.9365
+15_data_copy/Carcinoma/Carcinoma (12).jpeg,2,Carcinoma,2,Carcinoma,0.9414
+15_data_copy/Carcinoma/Carcinoma (10).jpeg,2,Carcinoma,2,Carcinoma,0.945
+15_data_copy/Carcinoma/99._big_gallery.jpeg,2,Carcinoma,2,Carcinoma,0.946
+15_data_copy/Carcinoma/90._cig_gallery.jpeg,2,Carcinoma,2,Carcinoma,0.947
+15_data_copy/Carcinoma/82._big_gallery.jpeg,2,Carcinoma,2,Carcinoma,0.9336
+15_data_copy/Carcinoma/81._big_gallery.jpeg,2,Carcinoma,2,Carcinoma,0.929
+15_data_copy/Carcinoma/80._cig_gallery.jpeg,2,Carcinoma,2,Carcinoma,0.939
+15_data_copy/Carcinoma/80._big_gallery.jpeg,2,Carcinoma,2,Carcinoma,0.9365
+15_data_copy/Carcinoma/77._big_gallery.jpeg,2,Carcinoma,2,Carcinoma,0.9414
+15_data_copy/Carcinoma/75._big_gallery.jpeg,2,Carcinoma,2,Carcinoma,0.945
+15_data_copy/Carcinoma/69._cig_gallery.jpeg,2,Carcinoma,2,Carcinoma,0.949
+15_data_copy/Carcinoma/6745.jpeg,2,Carcinoma,2,Carcinoma,0.9575
+15_data_copy/Carcinoma/57.jpeg,2,Carcinoma,2,Carcinoma,0.952
+15_data_copy/Carcinoma/166._big_gallery.jpeg,2,Carcinoma,2,Carcinoma,0.956
+15_data_copy/Carcinoma/155._big_gallery.jpeg,2,Carcinoma,2,Carcinoma,0.942
+15_data_copy/Carcinoma/143._big_gallery.jpeg,2,Carcinoma,2,Carcinoma,0.9434
+15_data_copy/Carcinoma/130._big_gallery.jpeg,2,Carcinoma,2,Carcinoma,0.9395
+15_data_copy/Carcinoma/112._cig_gallery.jpeg,2,Carcinoma,2,Carcinoma,0.9336
+15_data_copy/Carcinoma/108._cig_gallery.jpeg,2,Carcinoma,2,Carcinoma,0.9214
+15_data_copy/Ependimoma/e604d3328b4b99b7121f7a3f165aed_big_gallery.jpg,3,Ependimoma,3,Ependimoma,0.8955
+15_data_copy/Ependimoma/e49d51017a7e6f298a3f0a636a0e46_big_gallery.jpeg,3,Ependimoma,3,Ependimoma,0.908
+15_data_copy/Ependimoma/c374918229d8364e0806c2dd4de316_big_gallery.jpeg,3,Ependimoma,3,Ependimoma,0.922
+15_data_copy/Ependimoma/ad7a8a5eeaf2fe1be6577ef68023e2_big_gallery.jpeg,3,Ependimoma,3,Ependimoma,0.8994
+15_data_copy/Ependimoma/ac2475c6ac29b0326dd44141c99014_big_gallery.jpeg,3,Ependimoma,3,Ependimoma,0.9175
+15_data_copy/Ependimoma/a1951d6b0cc1644a552ea1d6877395_big_gallery.jpg,3,Ependimoma,3,Ependimoma,0.5205
+15_data_copy/Ependimoma/a0e92a437b24f3402a821bcf8e01f1_big_gallery.jpeg,3,Ependimoma,3,Ependimoma,0.8984
+15_data_copy/Ependimoma/Ependimoma (32).jpeg,3,Ependimoma,3,Ependimoma,0.8994
+15_data_copy/Ependimoma/Ependimoma (31).jpeg,3,Ependimoma,3,Ependimoma,0.9175
+15_data_copy/Ependimoma/Ependimoma (21).jpeg,3,Ependimoma,3,Ependimoma,0.8965
+15_data_copy/Ependimoma/79d9cc907fa27a5ed38b9c8c985345_big_gallery.jpeg,3,Ependimoma,3,Ependimoma,0.892
+15_data_copy/Ependimoma/79263db492ad2a4fdd87e7d10d5df7_big_gallery.jpeg,3,Ependimoma,3,Ependimoma,0.9062
+15_data_copy/Ependimoma/673b3c38f0490e03690d22c0a297d7_big_gallery.jpeg,3,Ependimoma,3,Ependimoma,0.8965
+15_data_copy/Ependimoma/55c0ada3cbc129a4908259561cbc07_big_gallery.jpeg,3,Ependimoma,3,Ependimoma,0.897
+15_data_copy/Ependimoma/408e7856634fca1ead2538943b9117_big_gallery.jpeg,3,Ependimoma,3,Ependimoma,0.892
+15_data_copy/Ependimoma/37f7d78175315dc6cd10245da5e430_big_gallery.jpeg,3,Ependimoma,8,Meduloblastoma,0.453
+15_data_copy/Ependimoma/322fbecf3b39b804462ade6dfacb72_big_gallery.jpg,3,Ependimoma,3,Ependimoma,0.904
+15_data_copy/Ependimoma/10cf22375267f09aca4242762a3b21_big_gallery.jpg,3,Ependimoma,3,Ependimoma,0.884
+15_data_copy/Ganglioglioma/753d3f6309ba9c255d50b8591478ec_big_gallery.jpg,4,Ganglioglioma,4,Ganglioglioma,0.91
+15_data_copy/Ganglioglioma/7._big_gallery copy.jpeg,4,Ganglioglioma,4,Ganglioglioma,0.8604
+15_data_copy/Ganglioglioma/43ecc715e346120e8f032da74bcb45_big_gallery.jpg,4,Ganglioglioma,4,Ganglioglioma,0.8574
+15_data_copy/Ganglioglioma/1.2.840.113619.2.80.3040119935.17384.1613989624.8_big_gallery.jpeg,4,Ganglioglioma,4,Ganglioglioma,0.892
+15_data_copy/Ganglioglioma/f01e0ce9ed3e7aef6315353830c3c1_big_gallery.jpg,4,Ganglioglioma,4,Ganglioglioma,0.8833
+15_data_copy/Ganglioglioma/a2001f1ca13c214d98c31c894aa588_big_gallery.jpg,4,Ganglioglioma,4,Ganglioglioma,0.87
+15_data_copy/Ganglioglioma/Ganglioglioma (8).jpg,4,Ganglioglioma,4,Ganglioglioma,0.87
+15_data_copy/Germinoma/c44ceb0b91000aba56959559a9cf8c_big_gallery.jpeg,5,Germinoma,5,Germinoma,0.884
+15_data_copy/Germinoma/a72bb8c781b78500355f20f48d7f60_big_gallery.jpeg,5,Germinoma,5,Germinoma,0.7646
+15_data_copy/Germinoma/70522a5dcf2a82fc6ef0f6fc7c7db3_big_gallery.jpg,5,Germinoma,5,Germinoma,0.8735
+15_data_copy/Germinoma/503ebd94996e0ff664ba3de83be1f5_big_gallery.jpeg,5,Germinoma,5,Germinoma,0.788
+15_data_copy/Germinoma/3fe4c2b7ab9b56c8687a6b9c56ff46_big_gallery.jpeg,5,Germinoma,5,Germinoma,0.8604
+15_data_copy/Germinoma/391e753dc89151d98b617d53b02edd_big_gallery.jpeg,5,Germinoma,5,Germinoma,0.889
+15_data_copy/Germinoma/2d2e0c6644083e1199fc6ff22932f6_big_gallery.jpeg,5,Germinoma,5,Germinoma,0.9126
+15_data_copy/Germinoma/2022-06-10 13_57_36-Pineal germinoma _ Radiology Case _ Radiopaedia.org.jpg,5,Germinoma,5,Germinoma,0.861
+15_data_copy/Germinoma/2022-06-10 13_56_43-Pineal germinoma _ Radiology Case _ Radiopaedia.org.jpg,5,Germinoma,5,Germinoma,0.9116
+15_data_copy/Germinoma/09bad0e3edd583f6d51fbc95501612_big_gallery.JPG,5,Germinoma,5,Germinoma,0.893
+15_data_copy/Glioblastoma/f103dcce6476bfa0faf194960be334_big_gallery.jpeg,6,Glioblastoma,6,Glioblastoma,0.868
+15_data_copy/Glioblastoma/eecb9f2ef6c47e66f31c866dba3b11_big_gallery.jpeg,6,Glioblastoma,6,Glioblastoma,0.862
+15_data_copy/Glioblastoma/d91d6aed8101ee884278334e2eebb8_big_gallery.jpeg,6,Glioblastoma,6,Glioblastoma,0.896
+15_data_copy/Glioblastoma/d8fd5299fc87299a6605ffdb5f2401_big_gallery.jpeg,6,Glioblastoma,6,Glioblastoma,0.8887
+15_data_copy/Glioblastoma/c5e16d39e391a030fc692304acf50f_big_gallery.jpeg,6,Glioblastoma,6,Glioblastoma,0.864
+15_data_copy/Glioblastoma/c584b5b5e6b9386728a54febcb6bb2_big_gallery.jpeg,6,Glioblastoma,6,Glioblastoma,0.7803
+15_data_copy/Glioblastoma/a6d8cff8aadea263e22ddceedc24373734c7751f6283094960bc9d7f6970dc84_big_gallery.jpeg,6,Glioblastoma,6,Glioblastoma,0.9087
+15_data_copy/Glioblastoma/a534b41f269ce97a030542aa6a4da533c51c62f2cc8a9e9203e552633db9512e_big_gallery.jpeg,6,Glioblastoma,6,Glioblastoma,0.902
+15_data_copy/Glioblastoma/IMG-0009-00016_big_gallery.jpeg,6,Glioblastoma,6,Glioblastoma,0.5293
+15_data_copy/Glioblastoma/Glioblastoma (28).jpeg,6,Glioblastoma,6,Glioblastoma,0.902
+15_data_copy/Glioblastoma/Glioblastoma (24).jpeg,6,Glioblastoma,6,Glioblastoma,0.9414
+15_data_copy/Glioblastoma/Glioblastoma (2).jpg,6,Glioblastoma,6,Glioblastoma,0.9297
+15_data_copy/Glioblastoma/8a1f0a86dbcf6430e22dc6d36bb64d_big_gallery.jpeg,6,Glioblastoma,6,Glioblastoma,0.8594
+15_data_copy/Glioblastoma/83998f0539e1b3d2c932c022cb3368_big_gallery.jpeg,6,Glioblastoma,6,Glioblastoma,0.8784
+15_data_copy/Glioblastoma/7b878451b7a17daee67aed16d03eeb_big_gallery.jpeg,6,Glioblastoma,6,Glioblastoma,0.9243
+15_data_copy/Glioblastoma/621189d5e068b173f1d4312a2b184d_big_gallery.jpeg,6,Glioblastoma,6,Glioblastoma,0.9043
+15_data_copy/Glioblastoma/603ebb8cfb89d09fc17b70aea3f907638b6dbb6bf39c1ddf64332859cc0215d6_big_gallery.jpeg,6,Glioblastoma,6,Glioblastoma,0.8057
+15_data_copy/Glioblastoma/3bebb09f6fc45796673b6cc57c2974_big_gallery.jpeg,6,Glioblastoma,6,Glioblastoma,0.8726
+15_data_copy/Glioblastoma/3a99c12dd05dc33081455f1b9baacde3c8017edd117f990d47797ddb5094e5fc_big_gallery.jpeg,6,Glioblastoma,6,Glioblastoma,0.9224
+15_data_copy/Glioblastoma/35154d73fd6c8d372fc1bda30cbc87_big_gallery.jpeg,6,Glioblastoma,6,Glioblastoma,0.9414
+15_data_copy/Glioblastoma/2022-06-10 13_45_02-Glioblastoma NOS _ Radiology Case _ Radiopaedia.org.jpg,6,Glioblastoma,6,Glioblastoma,0.911
+15_data_copy/Glioblastoma/2022-06-10 13_43_47-Glioblastoma NOS _ Radiology Case _ Radiopaedia.org.jpg,6,Glioblastoma,6,Glioblastoma,0.9297
+15_data_copy/Glioblastoma/008_big_gallery copy 2.jpeg,6,Glioblastoma,6,Glioblastoma,0.925
+15_data_copy/Granuloma/e1d0943236a53a5ddc69b06e7d139e_big_gallery.jpeg,7,Granuloma,7,Granuloma,0.903
+15_data_copy/Granuloma/d18b1f1ffedfa62ce408ab5587a27f_big_gallery.jpeg,7,Granuloma,7,Granuloma,0.703
+15_data_copy/Granuloma/b73417ec12dd732f39236d3de49569_big_gallery.jpeg,7,Granuloma,7,Granuloma,0.926
+15_data_copy/Granuloma/a390b23ec3de409ae1ac468646ec81_big_gallery.jpeg,7,Granuloma,7,Granuloma,0.8965
+15_data_copy/Granuloma/Granuloma (6).jpeg,7,Granuloma,7,Granuloma,0.836
+15_data_copy/Granuloma/Granuloma (4).jpg,7,Granuloma,7,Granuloma,0.9336
+15_data_copy/Granuloma/Granuloma (22).jpeg,7,Granuloma,7,Granuloma,0.903
+15_data_copy/Granuloma/Granuloma (20).jpeg,7,Granuloma,7,Granuloma,0.703
+15_data_copy/Granuloma/Granuloma (1).jpeg,7,Granuloma,7,Granuloma,0.9307
+15_data_copy/Granuloma/8._big_gallery.jpeg,7,Granuloma,7,Granuloma,0.836
+15_data_copy/Granuloma/4b09114b5492d7a6339b1310926f26_big_gallery.jpeg,7,Granuloma,7,Granuloma,0.9165
+15_data_copy/Granuloma/0c935fd17346fb947f40d8e3e25144_big_gallery.jpeg,7,Granuloma,7,Granuloma,0.9307
+15_data_copy/Meduloblastoma/e0bf692ef2654ad6e98e856cb9cd360367c5e0c388803fb3f7b817d66b1c815a_big_gallery.jpeg,8,Meduloblastoma,8,Meduloblastoma,0.9604
+15_data_copy/Meduloblastoma/cb170dd84bfb12c06092cd2bf44589_big_gallery.jpeg,8,Meduloblastoma,8,Meduloblastoma,0.9404
+15_data_copy/Meduloblastoma/a4e20fca78530613fc04812ea860e3_big_gallery.jpg,8,Meduloblastoma,8,Meduloblastoma,0.897
+15_data_copy/Meduloblastoma/a26e503cee37c9479c917535fa248682777498f510d5230a8d4fc40128a1aec8_big_gallery.jpeg,8,Meduloblastoma,8,Meduloblastoma,0.9595
+15_data_copy/Meduloblastoma/Meduloblastoma (5).jpeg,8,Meduloblastoma,8,Meduloblastoma,0.9253
+15_data_copy/Meduloblastoma/Meduloblastoma (20).jpeg,8,Meduloblastoma,8,Meduloblastoma,0.93
+15_data_copy/Meduloblastoma/AxialT1NC43_big_gallery.jpeg,8,Meduloblastoma,8,Meduloblastoma,0.93
+15_data_copy/Meduloblastoma/9d9f98fe6eae58638fb42c15de7d69_big_gallery.jpg,8,Meduloblastoma,8,Meduloblastoma,0.916
+15_data_copy/Meduloblastoma/9b28335dac18518c9eabecbf7b8a9a98194484db78fec9dd105a4495cafd2040_big_gallery.jpeg,8,Meduloblastoma,8,Meduloblastoma,0.9546
+15_data_copy/Meduloblastoma/6._big_gallery.jpeg,8,Meduloblastoma,8,Meduloblastoma,0.919
+15_data_copy/Meduloblastoma/4afe2af9b7eb1bdd312d5fc74f8f4f_big_gallery.jpeg,8,Meduloblastoma,8,Meduloblastoma,0.94
+15_data_copy/Meduloblastoma/2ab421222ccaad391dcf890dc0e452f0d242aaab64c60e1a2272742a628664c2_big_gallery.jpeg,8,Meduloblastoma,8,Meduloblastoma,0.9595
+15_data_copy/Meduloblastoma/18094fcbf5fb640cec05c7b42c8abf328d8341e60e5b5dfab57ef551af24f038_big_gallery.jpeg,8,Meduloblastoma,8,Meduloblastoma,0.9253
+15_data_copy/Meduloblastoma/15b3f2891dbda27ebd8aa8670a80b6dde8f207d4e7aa67bc54c00ac828bf56f8_big_gallery.jpeg,8,Meduloblastoma,8,Meduloblastoma,0.511
+15_data_copy/Meduloblastoma/11._big_gallery.jpeg,8,Meduloblastoma,8,Meduloblastoma,0.873
+15_data_copy/Meningioma/fb70b700c005da9fbe12869c646628_big_gallery.jpeg,9,Meningioma,9,Meningioma,0.785
+15_data_copy/Meningioma/f73b00556ba56e1924627945643e84_big_gallery.jpeg,9,Meningioma,9,Meningioma,0.836
+15_data_copy/Meningioma/f0116eb5235e448fe262219fbac955_big_gallery.jpeg,9,Meningioma,9,Meningioma,0.866
+15_data_copy/Meningioma/e9dd4c09986c8fbdc23322c8e35d9b44ec3cddcc3a214afd868b7480e000102e_big_gallery.jpeg,9,Meningioma,9,Meningioma,0.894
+15_data_copy/Meningioma/d3dc93e35695ab5f87106fb2c3f83b_big_gallery.jpeg,9,Meningioma,9,Meningioma,0.894
+15_data_copy/Meningioma/cf901309d3ad94c196f784b599903e_big_gallery.jpeg,9,Meningioma,10,Neurocitoma,0.8
+15_data_copy/Meningioma/c13041ba5cffe4a3910f7f4874c635_big_gallery.jpeg,9,Meningioma,9,Meningioma,0.8916
+15_data_copy/Meningioma/b415913de4c64902a43e6cc47d1cf1f340cef2760d69093a54400dff9cb86c3e_big_gallery.jpeg,9,Meningioma,9,Meningioma,0.8594
+15_data_copy/Meningioma/adbf9c00f27087643517a6ac756779_big_gallery.jpeg,9,Meningioma,9,Meningioma,0.8306
+15_data_copy/Meningioma/abf59714b9b5264894fae62534491cc292dca6f67ce9daa93b4347714d1f0b5a_big_gallery.jpeg,9,Meningioma,9,Meningioma,0.882
+15_data_copy/Meningioma/a5f9012dbd33acad1e2fcc78ff4a8b095c5bfb06d290dfc23b140e7d847fcddb_big_gallery.jpeg,9,Meningioma,9,Meningioma,0.868
+15_data_copy/Meningioma/a57fa5c87eaf9277fa93a9f15576cb_big_gallery.jpg,9,Meningioma,9,Meningioma,0.9043
+15_data_copy/Meningioma/a496dcae3a8a01d6ee794e2e6891b9_big_gallery.jpeg,9,Meningioma,9,Meningioma,0.7754
+15_data_copy/Meningioma/Meningioma (90).jpg,9,Meningioma,9,Meningioma,0.886
+15_data_copy/Meningioma/Meningioma (9).jpeg,9,Meningioma,9,Meningioma,0.88
+15_data_copy/Meningioma/Meningioma (88).jpg,9,Meningioma,9,Meningioma,0.851
+15_data_copy/Meningioma/Meningioma (86).jpeg,9,Meningioma,9,Meningioma,0.7847
+15_data_copy/Meningioma/Meningioma (83).jpeg,9,Meningioma,9,Meningioma,0.8994
+15_data_copy/Meningioma/Meningioma (79).jpeg,9,Meningioma,9,Meningioma,0.8794
+15_data_copy/Meningioma/Meningioma (74).jpeg,9,Meningioma,9,Meningioma,0.8047
+15_data_copy/Meningioma/Meningioma (7).jpeg,9,Meningioma,9,Meningioma,0.905
+15_data_copy/Meningioma/Meningioma (68).jpeg,9,Meningioma,9,Meningioma,0.892
+15_data_copy/Meningioma/Meningioma (66).jpg,9,Meningioma,9,Meningioma,0.6855
+15_data_copy/Meningioma/Meningioma (66).jpeg,9,Meningioma,9,Meningioma,0.9014
+15_data_copy/Meningioma/Meningioma (60).jpeg,9,Meningioma,9,Meningioma,0.8794
+15_data_copy/Meningioma/Meningioma (54).jpg,9,Meningioma,9,Meningioma,0.843
+15_data_copy/Meningioma/Meningioma (48).jpeg,9,Meningioma,9,Meningioma,0.8677
+15_data_copy/Meningioma/Meningioma (46).jpg,9,Meningioma,9,Meningioma,0.7944
+15_data_copy/Meningioma/Meningioma (37).jpg,9,Meningioma,9,Meningioma,0.85
+15_data_copy/Meningioma/Meningioma (34).jpg,9,Meningioma,9,Meningioma,0.9126
+15_data_copy/Meningioma/Meningioma (31).jpeg,9,Meningioma,9,Meningioma,0.834
+15_data_copy/Meningioma/Meningioma (26).jpeg,9,Meningioma,9,Meningioma,0.3787
+15_data_copy/Meningioma/Meningioma (25).jpg,9,Meningioma,9,Meningioma,0.798
+15_data_copy/Meningioma/Meningioma (20).jpg,9,Meningioma,9,Meningioma,0.887
+15_data_copy/Meningioma/Meningioma (15).jpeg,9,Meningioma,9,Meningioma,0.721
+15_data_copy/Meningioma/Meningioma (139).jpeg,9,Meningioma,9,Meningioma,0.785
+15_data_copy/Meningioma/Meningioma (135).jpeg,9,Meningioma,9,Meningioma,0.836
+15_data_copy/Meningioma/Meningioma (132).jpeg,9,Meningioma,9,Meningioma,0.894
+15_data_copy/Meningioma/Meningioma (125).jpeg,9,Meningioma,9,Meningioma,0.894
+15_data_copy/Meningioma/Meningioma (119).jpg,9,Meningioma,9,Meningioma,0.627
+15_data_copy/Meningioma/Meningioma (114).jpeg,9,Meningioma,9,Meningioma,0.8594
+15_data_copy/Meningioma/Meningioma (112).jpg,9,Meningioma,9,Meningioma,0.838
+15_data_copy/Meningioma/Meningioma (11).jpg,9,Meningioma,9,Meningioma,0.88
+15_data_copy/Meningioma/Meningioma (106).jpeg,9,Meningioma,9,Meningioma,0.8306
+15_data_copy/Meningioma/Meningioma (102).jpeg,9,Meningioma,9,Meningioma,0.882
+15_data_copy/Meningioma/Meningioma (100).jpeg,9,Meningioma,9,Meningioma,0.868
+15_data_copy/Meningioma/IMG-0012-00019_big_gallery.jpeg,9,Meningioma,9,Meningioma,0.853
+15_data_copy/Meningioma/IMG-0008-00020_big_gallery.jpeg,9,Meningioma,9,Meningioma,0.928
+15_data_copy/Meningioma/9ffb1b08cf5b696f90c62640c96d09_big_gallery.jpeg,9,Meningioma,9,Meningioma,0.914
+15_data_copy/Meningioma/962035ea94e945d24ad16633067e22_big_gallery.jpeg,9,Meningioma,9,Meningioma,0.8647
+15_data_copy/Meningioma/9532faff3186cb8c852ccd8dac9161_big_gallery.jpeg,9,Meningioma,9,Meningioma,0.8794
+15_data_copy/Meningioma/9._cig_gallery (1).jpeg,9,Meningioma,9,Meningioma,0.834
+15_data_copy/Meningioma/9._big_gallery (1).jpeg,9,Meningioma,9,Meningioma,0.834
+15_data_copy/Meningioma/87c7b56ea6f299ab183f284f832b6c1a85c584c75b1c7f374da4753c4ff621bc_big_gallery.jpeg,9,Meningioma,9,Meningioma,0.8794
+15_data_copy/Meningioma/86febbca0a7249d84af5fb3ef61bcd_big_gallery.jpg,9,Meningioma,9,Meningioma,0.6367
+15_data_copy/Meningioma/86b8ec07fc67a18191f94f2124f240_big_gallery.jpeg,9,Meningioma,9,Meningioma,0.919
+15_data_copy/Meningioma/8._big_gallery.jpeg,9,Meningioma,9,Meningioma,0.3787
+15_data_copy/Meningioma/7f64a02699841a677305ad5dbe4a80_big_gallery.jpeg,9,Meningioma,9,Meningioma,0.611
+15_data_copy/Meningioma/7e3985615e63d4632ddc102d023d2e_big_gallery.jpeg,9,Meningioma,9,Meningioma,0.875
+15_data_copy/Meningioma/7c10bb7eb158501e82f300e3c5e55e_big_gallery.jpg,9,Meningioma,9,Meningioma,0.647
+15_data_copy/Meningioma/638f718bce6431db82aac69716e1e4_big_gallery.jpeg,9,Meningioma,9,Meningioma,0.892
+15_data_copy/Meningioma/634d7b4afc3797b5336b2c38b7a28d_big_gallery.jpeg,9,Meningioma,9,Meningioma,0.8047
+15_data_copy/Meningioma/5a0ee81a70f59bf5792c224e1524a2_big_gallery.jpeg,9,Meningioma,9,Meningioma,0.721
+15_data_copy/Meningioma/512af75778af8502a99b968146f046_big_gallery.jpeg,9,Meningioma,9,Meningioma,0.9014
+15_data_copy/Meningioma/4a819766ee4c22707c376cb436bcd7_big_gallery.jpeg,9,Meningioma,9,Meningioma,0.88
+15_data_copy/Meningioma/49627ef0d5ed5a8e0deb16429d40bf_big_gallery.jpeg,9,Meningioma,9,Meningioma,0.7847
+15_data_copy/Meningioma/3f37acd4979e9aadfc7214255d773a8ef9f43b82b3fadfbbb5d54097f0461d7f_big_gallery.jpeg,9,Meningioma,9,Meningioma,0.905
+15_data_copy/Meningioma/2f5757d85e7ab61b95be676e84a0ff_big_gallery.jpeg,9,Meningioma,9,Meningioma,0.9146
+15_data_copy/Meningioma/2ea723f7a924fe09847bd2905296af_big_gallery.jpeg,9,Meningioma,9,Meningioma,0.65
+15_data_copy/Meningioma/24970c2f7f639c6fa5c5b465ed899b_big_gallery.jpeg,9,Meningioma,9,Meningioma,0.8994
+15_data_copy/Meningioma/21af421e839f73a607a5dd3478f8fe_big_gallery.jpeg,9,Meningioma,9,Meningioma,0.8223
+15_data_copy/Meningioma/2022-05-31 15_45_13-Pineal region meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.627
+15_data_copy/Meningioma/2022-05-31 15_34_39-Meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.7554
+15_data_copy/Meningioma/2022-05-31 15_33_34-Meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.838
+15_data_copy/Meningioma/2022-05-31 15_31_11-Meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.8247
+15_data_copy/Meningioma/2022-05-30 17_07_09-Intraventricular meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.886
+15_data_copy/Meningioma/2022-05-30 17_07_07-Intraventricular meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.851
+15_data_copy/Meningioma/2022-05-30 17_02_06-Intraventricular meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.852
+15_data_copy/Meningioma/2022-05-30 17_01_46-Intraventricular meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.852
+15_data_copy/Meningioma/2022-05-30 16_49_21-Angiomatous meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.7793
+15_data_copy/Meningioma/2022-05-30 15_37_21-Suprasellar meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.6855
+15_data_copy/Meningioma/2022-05-30 15_28_52-Meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.8516
+15_data_copy/Meningioma/2022-05-30 15_26_00-Meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.899
+15_data_copy/Meningioma/2022-05-30 15_25_51-Meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.8096
+15_data_copy/Meningioma/2022-05-30 15_23_49-Meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.8623
+15_data_copy/Meningioma/2022-05-30 15_23_48-Meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.8135
+15_data_copy/Meningioma/2022-05-30 15_23_07-Meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.851
+15_data_copy/Meningioma/2022-05-30 15_22_10-Meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.843
+15_data_copy/Meningioma/2022-05-30 15_19_53-Angiomatous meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.5366
+15_data_copy/Meningioma/2022-05-30 15_18_05-Meningothelial meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.9014
+15_data_copy/Meningioma/2022-05-30 15_18_04-Meningothelial meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.905
+15_data_copy/Meningioma/2022-05-30 15_16_14-Meningothelial meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.865
+15_data_copy/Meningioma/2022-05-30 15_14_29-Atypical meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.8213
+15_data_copy/Meningioma/2022-05-30 15_12_53-Atypical meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.7944
+15_data_copy/Meningioma/2022-05-30 13_22_13-Meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.8555
+15_data_copy/Meningioma/2022-05-30 13_15_48-Microcystic meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.85
+15_data_copy/Meningioma/2022-05-30 13_14_11-Meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.7705
+15_data_copy/Meningioma/2022-05-30 13_13_58-Meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.673
+15_data_copy/Meningioma/2022-05-28 11_11_32-Intraventricular meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.894
+15_data_copy/Meningioma/2022-05-28 11_11_27-Intraventricular meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.8716
+15_data_copy/Meningioma/2022-05-28 11_11_26-Intraventricular meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.87
+15_data_copy/Meningioma/2022-05-28 11_03_55-Meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.9126
+15_data_copy/Meningioma/2022-05-28 11_03_46-Meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.798
+15_data_copy/Meningioma/2022-05-28 11_02_22-Meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.8784
+15_data_copy/Meningioma/2022-05-28 11_02_06-Meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.8394
+15_data_copy/Meningioma/2022-05-28 11_01_44-Meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.8657
+15_data_copy/Meningioma/2022-05-28 11_01_13-Meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.887
+15_data_copy/Meningioma/2022-05-28 10_58_27-Meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.8975
+15_data_copy/Meningioma/2022-05-28 10_58_21-Meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.881
+15_data_copy/Meningioma/2022-05-28 10_58_18-Meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.8975
+15_data_copy/Meningioma/2022-05-28 10_58_02-Meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.8867
+15_data_copy/Meningioma/2022-05-28 10_56_54-Meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.862
+15_data_copy/Meningioma/2022-05-28 10_56_14-Meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.88
+15_data_copy/Meningioma/2022-05-28 10_55_15-Meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.8906
+15_data_copy/Meningioma/2022-05-28 10_55_05-Meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.88
+15_data_copy/Meningioma/2022-05-28 10_54_57-Meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.8423
+15_data_copy/Meningioma/2022-05-28 10_46_16-Meningioma _ Radiology Case _ Radiopaedia.org - Opera.jpg,9,Meningioma,9,Meningioma,0.503
+15_data_copy/Meningioma/1319f0b90bedad92adc92d198db734_big_gallery.jpeg,9,Meningioma,9,Meningioma,0.8047
+15_data_copy/Meningioma/0633eae4957870eb366f1567de4570_big_gallery.jpeg,9,Meningioma,10,Neurocitoma,0.4478
+15_data_copy/Meningioma/045e200646f5fe38dd0193ec8e085f61f15321c198fdc63dc0159f213c331b60_big_gallery.jpeg,9,Meningioma,9,Meningioma,0.8677
+15_data_copy/Meningioma/0050cbda7dc3d3709039151cc80040_big_gallery.jpeg,9,Meningioma,9,Meningioma,0.892
+15_data_copy/Neurocitoma/fd7a839d7013b23610a4e415b0dd2f_big_gallery.jpg,10,Neurocitoma,10,Neurocitoma,0.8096
+15_data_copy/Neurocitoma/export--279557860_big_gallery.jpeg,10,Neurocitoma,10,Neurocitoma,0.9395
+15_data_copy/Neurocitoma/ed23a15a22dbf6b9a0b0681fd2a76d_big_gallery.jpeg,10,Neurocitoma,10,Neurocitoma,0.9214
+15_data_copy/Neurocitoma/e9e2dc6e4e1a6661af9eb151c0c2d6_big_gallery.jpg,10,Neurocitoma,10,Neurocitoma,0.954
+15_data_copy/Neurocitoma/e1c06fed820d8668b256eabbbf2dfc_big_gallery.jpeg,10,Neurocitoma,10,Neurocitoma,0.914
+15_data_copy/Neurocitoma/e0966a0809b71fc274fe124407a7133a2b7e8afc430736771d0f035d2822a3c0_big_gallery.jpeg,10,Neurocitoma,1,Astrocitoma,0.584
+15_data_copy/Neurocitoma/d45bb1ee405ec2f0b6d6f6fa0176fe_big_gallery.jpeg,10,Neurocitoma,10,Neurocitoma,0.884
+15_data_copy/Neurocitoma/cdc6f283e23117bd826c5a72240f88_big_gallery.jpeg,10,Neurocitoma,10,Neurocitoma,0.921
+15_data_copy/Neurocitoma/c73c9520a7ef9b44ecdb7399c227ff_big_gallery.jpeg,10,Neurocitoma,10,Neurocitoma,0.944
+15_data_copy/Neurocitoma/be2f1b691210fa425fe54b054ff92cdc5c8eddcb407fa98c1e6220cdf3b6c2e5_big_gallery.jpeg,10,Neurocitoma,10,Neurocitoma,0.936
+15_data_copy/Neurocitoma/T2-10_big_gallery.jpeg,10,Neurocitoma,10,Neurocitoma,0.4688
+15_data_copy/Neurocitoma/T2-09_big_gallery.jpeg,10,Neurocitoma,10,Neurocitoma,0.3625
+15_data_copy/Neurocitoma/T1_C__AX_102_big_gallery.jpeg,10,Neurocitoma,10,Neurocitoma,0.9287
+15_data_copy/Neurocitoma/T1_C__AX_101_big_gallery.jpeg,10,Neurocitoma,10,Neurocitoma,0.9297
+15_data_copy/Neurocitoma/T1_C__AX_100_big_gallery.jpeg,10,Neurocitoma,10,Neurocitoma,0.937
+15_data_copy/Neurocitoma/T1_C__AX_099_big_gallery.jpeg,10,Neurocitoma,10,Neurocitoma,0.931
+15_data_copy/Neurocitoma/T1_C__AX_098_big_gallery.jpeg,10,Neurocitoma,10,Neurocitoma,0.9263
+15_data_copy/Neurocitoma/T1_C__AX_097_big_gallery.jpeg,10,Neurocitoma,10,Neurocitoma,0.9263
+15_data_copy/Neurocitoma/T1_C__AX_096_big_gallery.jpeg,10,Neurocitoma,10,Neurocitoma,0.9287
+15_data_copy/Neurocitoma/T1_C__AX_092_big_gallery.jpeg,10,Neurocitoma,10,Neurocitoma,0.9434
+15_data_copy/Neurocitoma/T1_AX_109_big_gallery.jpeg,10,Neurocitoma,10,Neurocitoma,0.941
+15_data_copy/Neurocitoma/T1_AX_099_big_gallery.jpeg,10,Neurocitoma,10,Neurocitoma,0.9355
+15_data_copy/Neurocitoma/T1_AX_098_big_gallery.jpeg,10,Neurocitoma,10,Neurocitoma,0.9404
+15_data_copy/Neurocitoma/T1_AX_091_big_gallery.jpeg,10,Neurocitoma,10,Neurocitoma,0.926
+15_data_copy/Neurocitoma/T1_AX_089_big_gallery.jpeg,10,Neurocitoma,10,Neurocitoma,0.9375
+15_data_copy/Neurocitoma/T1_AX_088_big_gallery.jpeg,10,Neurocitoma,10,Neurocitoma,0.9463
+15_data_copy/Neurocitoma/Neurocitoma (77).jpeg,10,Neurocitoma,10,Neurocitoma,0.941
+15_data_copy/Neurocitoma/Neurocitoma (67).jpeg,10,Neurocitoma,10,Neurocitoma,0.9355
+15_data_copy/Neurocitoma/Neurocitoma (66).jpeg,10,Neurocitoma,10,Neurocitoma,0.9404
+15_data_copy/Neurocitoma/Neurocitoma (59).jpeg,10,Neurocitoma,10,Neurocitoma,0.926
+15_data_copy/Neurocitoma/Neurocitoma (57).jpeg,10,Neurocitoma,10,Neurocitoma,0.9375
+15_data_copy/Neurocitoma/Neurocitoma (56).jpeg,10,Neurocitoma,10,Neurocitoma,0.9463
+15_data_copy/Neurocitoma/Neurocitoma (45).jpeg,10,Neurocitoma,10,Neurocitoma,0.884
+15_data_copy/Neurocitoma/Neurocitoma (41).jpeg,10,Neurocitoma,10,Neurocitoma,0.944
+15_data_copy/Neurocitoma/Neurocitoma (23).jpeg,10,Neurocitoma,10,Neurocitoma,0.922
+15_data_copy/Neurocitoma/Neurocitoma (17).jpg,10,Neurocitoma,10,Neurocitoma,0.9424
+15_data_copy/Neurocitoma/Neurocitoma (17).jpeg,10,Neurocitoma,10,Neurocitoma,0.9395
+15_data_copy/Neurocitoma/87b9b46bc712cd8ee9a69e2ba54a03_big_gallery.jpeg,10,Neurocitoma,10,Neurocitoma,0.928
+15_data_copy/Neurocitoma/76b87c24017e764ac159653622c567_big_gallery.jpg,10,Neurocitoma,10,Neurocitoma,0.9375
+15_data_copy/Neurocitoma/68157294393dd062133b813a0abd8b_big_gallery.jpeg,10,Neurocitoma,10,Neurocitoma,0.9346
+15_data_copy/Neurocitoma/52b24b4521f861296fe568a1fe11b7_big_gallery.jpeg,10,Neurocitoma,10,Neurocitoma,0.9395
+15_data_copy/Neurocitoma/4e9c70bc08b44ae7c2d2bc2cd207a4_big_gallery.jpeg,10,Neurocitoma,10,Neurocitoma,0.9316
+15_data_copy/Neurocitoma/4a57f7e9df4a0389b0ee21f31f90759bb1415194fe0baac7c94e05d606db2c2d_big_gallery.jpeg,10,Neurocitoma,10,Neurocitoma,0.947
+15_data_copy/Neurocitoma/40f7b33b020e9063ad1118ef53cedf5c0485491beae87bad14e26b26cfe4b307_big_gallery.jpeg,10,Neurocitoma,10,Neurocitoma,0.94
+15_data_copy/Neurocitoma/33d8517455105241f17d17beeecb6f_big_gallery.jpeg,10,Neurocitoma,10,Neurocitoma,0.8623
+15_data_copy/Neurocitoma/2cb8a0cab57d525d1570b53aa85995_big_gallery.jpeg,10,Neurocitoma,10,Neurocitoma,0.9336
+15_data_copy/Neurocitoma/2022-06-06 10_27_41-Window.jpg,10,Neurocitoma,10,Neurocitoma,0.9272
+15_data_copy/Neurocitoma/2022-06-06 10_27_19-Window.jpg,10,Neurocitoma,10,Neurocitoma,0.9536
+15_data_copy/Neurocitoma/2022-06-06 10_27_16-Window.jpg,10,Neurocitoma,10,Neurocitoma,0.94
+15_data_copy/Neurocitoma/2022-06-06 10_11_08-Window.jpg,10,Neurocitoma,10,Neurocitoma,0.9424
+15_data_copy/Neurocitoma/2022-06-06 10_09_45-Window.jpg,10,Neurocitoma,10,Neurocitoma,0.939
+15_data_copy/Neurocitoma/2022-06-06 10_09_25-Window.jpg,10,Neurocitoma,10,Neurocitoma,0.941
+15_data_copy/Neurocitoma/2022-06-06 10_09_24-Window.jpg,10,Neurocitoma,10,Neurocitoma,0.9326
+15_data_copy/Neurocitoma/2022-06-06 10_09_16-Window.jpg,10,Neurocitoma,10,Neurocitoma,0.9473
+15_data_copy/Neurocitoma/2022-06-06 10_09_15-Window.jpg,10,Neurocitoma,10,Neurocitoma,0.94
+15_data_copy/Neurocitoma/2022-06-06 10_09_14-Window.jpg,10,Neurocitoma,10,Neurocitoma,0.931
+15_data_copy/Neurocitoma/2022-06-06 10_06_00-Window.jpg,10,Neurocitoma,10,Neurocitoma,0.912
+15_data_copy/Neurocitoma/124._big_gallery.jpeg,10,Neurocitoma,10,Neurocitoma,0.933
+15_data_copy/Neurocitoma/100._big_gallery.jpeg,10,Neurocitoma,10,Neurocitoma,0.9507
+15_data_copy/Neurocitoma/0c5c700b253c919c8b44278b88c886_big_gallery.jpeg,10,Neurocitoma,10,Neurocitoma,0.907
+15_data_copy/Neurocitoma/00232c762627857aac0b196c7158eb_big_gallery.jpeg,10,Neurocitoma,10,Neurocitoma,0.922
+15_data_copy/Oligodendroglioma/ea77b580add516a34ab104ff8cf15d_big_gallery.jpeg,11,Oligodendroglioma,11,Oligodendroglioma,0.948
+15_data_copy/Oligodendroglioma/e188645ef1374a7307fc13c75dcfd5_big_gallery.jpeg,11,Oligodendroglioma,11,Oligodendroglioma,0.9375
+15_data_copy/Oligodendroglioma/da17f596f5188b1979986403b4ede3d441236b698516a1fa4f0220d99e046576_big_gallery.jpeg,11,Oligodendroglioma,11,Oligodendroglioma,0.9443
+15_data_copy/Oligodendroglioma/b6805da6dc7de91b209b3d66cde6e3_big_gallery.jpeg,11,Oligodendroglioma,11,Oligodendroglioma,0.9434
+15_data_copy/Oligodendroglioma/a6e3de2de870e5c52090312e6ab46c_big_gallery.jpeg,11,Oligodendroglioma,11,Oligodendroglioma,0.9473
+15_data_copy/Oligodendroglioma/Oligodendroglioma (80).jpeg,11,Oligodendroglioma,11,Oligodendroglioma,0.9375
+15_data_copy/Oligodendroglioma/Oligodendroglioma (8).jpeg,11,Oligodendroglioma,11,Oligodendroglioma,0.9526
+15_data_copy/Oligodendroglioma/Oligodendroglioma (69).jpeg,11,Oligodendroglioma,11,Oligodendroglioma,0.9443
+15_data_copy/Oligodendroglioma/Oligodendroglioma (55).jpeg,11,Oligodendroglioma,11,Oligodendroglioma,0.9434
+15_data_copy/Oligodendroglioma/Oligodendroglioma (4).jpeg,11,Oligodendroglioma,11,Oligodendroglioma,0.942
+15_data_copy/Oligodendroglioma/Oligodendroglioma (37).jpeg,11,Oligodendroglioma,11,Oligodendroglioma,0.936
+15_data_copy/Oligodendroglioma/Oligodendroglioma (32).jpeg,11,Oligodendroglioma,11,Oligodendroglioma,0.948
+15_data_copy/Oligodendroglioma/Oligodendroglioma (3).jpeg,11,Oligodendroglioma,11,Oligodendroglioma,0.9575
+15_data_copy/Oligodendroglioma/Oligodendroglioma (27).jpeg,11,Oligodendroglioma,11,Oligodendroglioma,0.935
+15_data_copy/Oligodendroglioma/Oligodendroglioma (24).jpeg,11,Oligodendroglioma,11,Oligodendroglioma,0.934
+15_data_copy/Oligodendroglioma/Oligodendroglioma (10).jpeg,11,Oligodendroglioma,11,Oligodendroglioma,0.9624
+15_data_copy/Oligodendroglioma/Anonymize.Seq9.Ser9.Img19_big_gallery.jpeg,11,Oligodendroglioma,11,Oligodendroglioma,0.9033
+15_data_copy/Oligodendroglioma/98._big_gallery.jpeg,11,Oligodendroglioma,11,Oligodendroglioma,0.942
+15_data_copy/Oligodendroglioma/9500a1eb1147e7b0826d342fb2a2c5_big_gallery.jpeg,11,Oligodendroglioma,11,Oligodendroglioma,0.936
+15_data_copy/Oligodendroglioma/85d78182aad6b1a43b79c56b7f9d7d_big_gallery.jpeg,11,Oligodendroglioma,11,Oligodendroglioma,0.934
+15_data_copy/Oligodendroglioma/6ae897029200a320bfe5fe1f94c4c8386c16be58ce8cce55bb6c52d8be62b8f8_big_gallery.jpeg,11,Oligodendroglioma,11,Oligodendroglioma,0.9624
+15_data_copy/Oligodendroglioma/6abb1b4112b0ca51df8af798656dc7_big_gallery.jpeg,11,Oligodendroglioma,11,Oligodendroglioma,0.9526
+15_data_copy/Oligodendroglioma/4503ea472db1c5bd78336968206589_big_gallery.jpeg,11,Oligodendroglioma,11,Oligodendroglioma,0.948
+15_data_copy/Oligodendroglioma/3b8ff364ddecbf51c9ed1e6ba32029_big_gallery.jpeg,11,Oligodendroglioma,11,Oligodendroglioma,0.92
+15_data_copy/Oligodendroglioma/3a1d7539402ebcd1f4fcc86040930f_big_gallery.jpeg,11,Oligodendroglioma,11,Oligodendroglioma,0.942
+15_data_copy/Oligodendroglioma/3491d5a5cb7c1d965999e4d9ce091f_big_gallery.jpeg,11,Oligodendroglioma,11,Oligodendroglioma,0.9546
+15_data_copy/Oligodendroglioma/331eec93b646cd2848eabc6fd34ae6_big_gallery.jpeg,11,Oligodendroglioma,11,Oligodendroglioma,0.935
+15_data_copy/Oligodendroglioma/1d88e357a6de40207e64f4be20fff6cb895df675f219eea49de5c83c6eac9ef8_big_gallery.jpeg,11,Oligodendroglioma,11,Oligodendroglioma,0.9575
+15_data_copy/Oligodendroglioma/105._big_gallery.jpeg,11,Oligodendroglioma,11,Oligodendroglioma,0.951
+15_data_copy/Oligodendroglioma/0a8725a3268ebc49e12b98204fe21d_big_gallery.jpeg,11,Oligodendroglioma,11,Oligodendroglioma,0.9487
+15_data_copy/Oligodendroglioma/023_big_gallery.jpeg,11,Oligodendroglioma,14,Tuberculoma,0.4429
+15_data_copy/Oligodendroglioma/021_big_gallery.jpeg,11,Oligodendroglioma,11,Oligodendroglioma,0.7437
+15_data_copy/Papiloma/eb26d2287849d0f2da481f2ab9eb31_big_gallery.jpeg,12,Papiloma,12,Papiloma,0.9224
+15_data_copy/Papiloma/downloaded_image20211019-1658-oty3k5_big_gallery.jpeg,12,Papiloma,12,Papiloma,0.9316
+15_data_copy/Papiloma/c5b5b810479fe128054a347cf3cc7d_big_gallery.jpeg,12,Papiloma,12,Papiloma,0.922
+15_data_copy/Papiloma/c526a3b49dff0142152873b1c4a60f_big_gallery.jpeg,12,Papiloma,12,Papiloma,0.9194
+15_data_copy/Papiloma/ac97a064803690de86ae255a83df20_big_gallery.jpg,12,Papiloma,12,Papiloma,0.8945
+15_data_copy/Papiloma/Papiloma (9).jpg,12,Papiloma,1,Astrocitoma,0.7856
+15_data_copy/Papiloma/Papiloma (8).jpeg,12,Papiloma,13,Schwannoma,0.4182
+15_data_copy/Papiloma/Papiloma (4).jpg,12,Papiloma,12,Papiloma,0.921
+15_data_copy/Papiloma/Papiloma (36).jpg,12,Papiloma,12,Papiloma,0.8945
+15_data_copy/Papiloma/Papiloma (30).jpg,12,Papiloma,12,Papiloma,0.9004
+15_data_copy/Papiloma/Papiloma (20).jpeg,12,Papiloma,12,Papiloma,0.922
+15_data_copy/Papiloma/Papiloma (16).jpg,12,Papiloma,12,Papiloma,0.931
+15_data_copy/Papiloma/Papiloma (13).jpeg,12,Papiloma,12,Papiloma,0.9277
+15_data_copy/Papiloma/Papiloma (1).jpeg,12,Papiloma,7,Granuloma,0.5264
+15_data_copy/Papiloma/8_big_gallery.jpeg,12,Papiloma,13,Schwannoma,0.4182
+15_data_copy/Papiloma/7ff8d75c8cf7affd0aefec705d5b1a_big_gallery.jpeg,12,Papiloma,12,Papiloma,0.931
+15_data_copy/Papiloma/7684818ae70cd30a1252670a907c99_big_gallery.jpeg,12,Papiloma,12,Papiloma,0.909
+15_data_copy/Papiloma/5_cig_gallery.jpeg,12,Papiloma,12,Papiloma,0.917
+15_data_copy/Papiloma/4_big_gallery.jpeg,12,Papiloma,7,Granuloma,0.5264
+15_data_copy/Papiloma/430ed4c491a00f2f185bfbd2ff2dcf_big_gallery.jpeg,12,Papiloma,12,Papiloma,0.9277
+15_data_copy/Papiloma/2022-06-13 12_52_08-Choroid plexus papilloma _ Radiology Case _ Radiopaedia.org.jpg,12,Papiloma,12,Papiloma,0.9526
+15_data_copy/Papiloma/2022-06-13 12_52_00-Choroid plexus papilloma _ Radiology Case _ Radiopaedia.org.jpg,12,Papiloma,12,Papiloma,0.9395
+15_data_copy/Papiloma/2022-06-13 12_51_45-Choroid plexus papilloma _ Radiology Case _ Radiopaedia.org.jpg,12,Papiloma,12,Papiloma,0.947
+15_data_copy/Papiloma/2022-06-13 12_51_13-Choroid plexus papilloma _ Radiology Case _ Radiopaedia.org.jpg,12,Papiloma,12,Papiloma,0.943
+15_data_copy/Papiloma/2022-06-13 12_40_52-Choroid plexus papilloma _ Radiology Case _ Radiopaedia.org.jpg,12,Papiloma,12,Papiloma,0.893
+15_data_copy/Papiloma/2022-06-13 12_39_56-Choroid plexus papilloma _ Radiology Case _ Radiopaedia.org.jpg,12,Papiloma,12,Papiloma,0.9004
+15_data_copy/Papiloma/2022-06-13 12_39_42-Choroid plexus papilloma _ Radiology Case _ Radiopaedia.org.jpg,12,Papiloma,12,Papiloma,0.931
+15_data_copy/Papiloma/2022-06-13 12_33_42-Choroid plexus papilloma _ Radiology Case _ Radiopaedia.org.jpg,12,Papiloma,12,Papiloma,0.9043
+15_data_copy/Papiloma/2022-06-13 12_33_40-Choroid plexus papilloma _ Radiology Case _ Radiopaedia.org.jpg,12,Papiloma,12,Papiloma,0.912
+15_data_copy/Papiloma/2022-06-13 12_33_15-Choroid plexus papilloma _ Radiology Case _ Radiopaedia.org.jpg,12,Papiloma,1,Astrocitoma,0.7856
+15_data_copy/Papiloma/2022-06-13 12_33_06-Choroid plexus papilloma _ Radiology Case _ Radiopaedia.org.jpg,12,Papiloma,12,Papiloma,0.921
+15_data_copy/Papiloma/2022-06-13 12_32_20-Choroid plexus papilloma _ Radiology Case _ Radiopaedia.org.jpg,12,Papiloma,12,Papiloma,0.904
+15_data_copy/Schwannoma/fb6e752e2194b72574841ffdfcb37d00941d66cfbac21e153a9b0ae597dbb025_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.898
+15_data_copy/Schwannoma/eed5d5d7796e06cf387d6ac28ca8b7497b151707b25afb20ba3ba2367f2e2f2d_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.928
+15_data_copy/Schwannoma/ede24b4e45d8fa231c9e402aea8300_big_gallery.jpg,13,Schwannoma,9,Meningioma,0.306
+15_data_copy/Schwannoma/e1fe7e7367ffd28ee7b1e60030b310_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.92
+15_data_copy/Schwannoma/e034a23ef4210d23f54c10a3dfbb828ef1279300d487dddde6435c128865fa27_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.8945
+15_data_copy/Schwannoma/dea957b65c953d92a72b67220baa0dd90a2e2ff7849e7c4c691ecc844d2a22fa_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.9355
+15_data_copy/Schwannoma/d922eac0637415f996c77e30c5ea66_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.916
+15_data_copy/Schwannoma/d5e68b639ae0286c2aef647ea7a6c1_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.916
+15_data_copy/Schwannoma/d314956c6d0665bfc170db6ecb4d6fb1268fc4f40a2c2c949b678097b07ccf12_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.9297
+15_data_copy/Schwannoma/d283f42a9cc7350e360de6019a7ce2_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.867
+15_data_copy/Schwannoma/c600a9222eb9048eaecedacc0a592d_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.914
+15_data_copy/Schwannoma/a556feeededa07916984179b7826ad_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.907
+15_data_copy/Schwannoma/a43cbaa55a55e74056333446e2546f_big_gallery.jpg,13,Schwannoma,13,Schwannoma,0.9077
+15_data_copy/Schwannoma/a29afd2ecad51b353e6f06d83536745434f8be4c3f18c7835c7758e9e675c859_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.9
+15_data_copy/Schwannoma/Schwannoma (95).jpeg,13,Schwannoma,13,Schwannoma,0.914
+15_data_copy/Schwannoma/Schwannoma (83).jpeg,13,Schwannoma,13,Schwannoma,0.9
+15_data_copy/Schwannoma/Schwannoma (72).jpeg,13,Schwannoma,13,Schwannoma,0.938
+15_data_copy/Schwannoma/Schwannoma (69).jpeg,13,Schwannoma,13,Schwannoma,0.8813
+15_data_copy/Schwannoma/Schwannoma (64).jpeg,13,Schwannoma,13,Schwannoma,0.832
+15_data_copy/Schwannoma/Schwannoma (54).jpeg,13,Schwannoma,13,Schwannoma,0.88
+15_data_copy/Schwannoma/Schwannoma (49).jpeg,13,Schwannoma,13,Schwannoma,0.9116
+15_data_copy/Schwannoma/Schwannoma (41).jpeg,13,Schwannoma,13,Schwannoma,0.895
+15_data_copy/Schwannoma/Schwannoma (4).jpg,13,Schwannoma,13,Schwannoma,0.7983
+15_data_copy/Schwannoma/Schwannoma (33).jpeg,13,Schwannoma,13,Schwannoma,0.88
+15_data_copy/Schwannoma/Schwannoma (32).jpeg,13,Schwannoma,13,Schwannoma,0.8887
+15_data_copy/Schwannoma/Schwannoma (23).jpeg,13,Schwannoma,13,Schwannoma,0.9097
+15_data_copy/Schwannoma/Schwannoma (116).jpeg,13,Schwannoma,13,Schwannoma,0.898
+15_data_copy/Schwannoma/Schwannoma (106).jpeg,13,Schwannoma,13,Schwannoma,0.9355
+15_data_copy/Schwannoma/94_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.9404
+15_data_copy/Schwannoma/92_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.9404
+15_data_copy/Schwannoma/8ed22e1276c9d218c0f2f0c572d385_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.88
+15_data_copy/Schwannoma/8_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.8887
+15_data_copy/Schwannoma/85_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.9355
+15_data_copy/Schwannoma/8485c77ec140a6b854aded916c0a49_big_gallery.jpg,13,Schwannoma,13,Schwannoma,0.9077
+15_data_copy/Schwannoma/814f7304811b73218fb8b2b8c3f84b_big_gallery.jpg,13,Schwannoma,13,Schwannoma,0.865
+15_data_copy/Schwannoma/807526e85d3b61a46327683a77bcfc_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.9146
+15_data_copy/Schwannoma/756d9f5c86aeb388c99ec290c7d4646e75954d2ba3acdb3d0e9b243082249c39_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.914
+15_data_copy/Schwannoma/70cfb5e95e8bc071d8b67491d13d3a_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.9116
+15_data_copy/Schwannoma/6_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.9097
+15_data_copy/Schwannoma/68_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.9355
+15_data_copy/Schwannoma/65461c247be31006e5616df99faab6_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.8813
+15_data_copy/Schwannoma/64_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.934
+15_data_copy/Schwannoma/6354cf6a21f9224978d037869d2317_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.832
+15_data_copy/Schwannoma/61433209eb9e3fbbde953e7c76c1d5c619f9157f92055e639cfd423a08b73ba7_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.9243
+15_data_copy/Schwannoma/589dbfd78a9fda962a41f30c3b5ffe_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.919
+15_data_copy/Schwannoma/50b19fd3a1994cde90fa4f7f6f64d7123d7faecdd051cff8c4180e414eee6869_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.929
+15_data_copy/Schwannoma/489d4332430846388459d4fedb8856_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.88
+15_data_copy/Schwannoma/4865512c63d9199425824b60d38bd3_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.9175
+15_data_copy/Schwannoma/3cb1f5f5d88c61a2c727bbde66c642_big_gallery.jpg,13,Schwannoma,13,Schwannoma,0.7983
+15_data_copy/Schwannoma/3aa8496c151f908242a9f9863eb9e0_big_gallery.jpg,13,Schwannoma,13,Schwannoma,0.9214
+15_data_copy/Schwannoma/39f95e3bbc3466cd5c013c4ae0d7c2642961987aa0c575c9db29a13c5258d722_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.895
+15_data_copy/Schwannoma/3636f90ac66f1e0a53862283ad280b_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.9106
+15_data_copy/Schwannoma/348bb0a95ac56d04a84dd79277a396b5f3d0254b05ed5767488a7c77eed9629a_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.9233
+15_data_copy/Schwannoma/325135d5ce89e76466e9317fd9c337d53045d967375928dc2e49906776b1c384_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.938
+15_data_copy/Schwannoma/243a9418731751bb5230b62270c1ba_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.92
+15_data_copy/Schwannoma/2022-06-06 10_35_08-Window.jpg,13,Schwannoma,13,Schwannoma,0.8853
+15_data_copy/Schwannoma/2022-06-06 10_34_18-Window.jpg,13,Schwannoma,13,Schwannoma,0.6895
+15_data_copy/Schwannoma/2022-06-06 10_34_10-Window.jpg,13,Schwannoma,13,Schwannoma,0.926
+15_data_copy/Schwannoma/1c0a5eaa3366fd01de0ffe604f3347_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.9106
+15_data_copy/Schwannoma/114e38d345fe1cf2acbf41fccee8f41dd0b0fa0fb6c223e8f99e01f1ce533595_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.9116
+15_data_copy/Schwannoma/09639feef950f2f03073116a99b2960742f268bbdc9354252e1c2d7b1950ee4d_big_gallery.jpeg,13,Schwannoma,13,Schwannoma,0.904
+15_data_copy/Tuberculoma/fbb16b85dd9bd85644dcf30c146141_big_gallery.jpeg,14,Tuberculoma,14,Tuberculoma,0.877
+15_data_copy/Tuberculoma/c8dede4f1b8d9ea0b52f7ffb74d172_big_gallery.jpeg,14,Tuberculoma,14,Tuberculoma,0.88
+15_data_copy/Tuberculoma/ba5b181e89a72537612fffe237fd89_big_gallery.jpeg,14,Tuberculoma,14,Tuberculoma,0.905
+15_data_copy/Tuberculoma/Tuberculoma (7).jpeg,14,Tuberculoma,14,Tuberculoma,0.871
+15_data_copy/Tuberculoma/Tuberculoma (18).jpeg,14,Tuberculoma,14,Tuberculoma,0.8516
+15_data_copy/Tuberculoma/Tuberculoma (15).jpeg,14,Tuberculoma,14,Tuberculoma,0.854
+15_data_copy/Tuberculoma/8f5b6271e6fc530bb154f82b818aad_big_gallery.jpeg,14,Tuberculoma,14,Tuberculoma,0.8457
+15_data_copy/Tuberculoma/83c8bafe7cb5e5a39bbcad38526876_big_gallery.jpeg,14,Tuberculoma,14,Tuberculoma,0.854
+15_data_copy/Tuberculoma/7904cbd166a32853b9834ad1cdff15_big_gallery.jpeg,14,Tuberculoma,14,Tuberculoma,0.8516
+15_data_copy/Tuberculoma/64._big_gallery.jpeg,14,Tuberculoma,14,Tuberculoma,0.934
+15_data_copy/Tuberculoma/518be986e6f8cd87087f9636b49df2_big_gallery.jpeg,14,Tuberculoma,14,Tuberculoma,0.8667
+15_data_copy/Tuberculoma/45._big_gallery.jpeg,14,Tuberculoma,14,Tuberculoma,0.927
+15_data_copy/Tuberculoma/278f1b337032feeb1c7f46eccdff39_big_gallery.jpeg,14,Tuberculoma,14,Tuberculoma,0.8994
+15_data_copy/Tuberculoma/1bbe24be35c804f59c0bfe91d31a92_big_gallery.jpeg,14,Tuberculoma,14,Tuberculoma,0.918
+15_data_copy/Tuberculoma/19c10491fea111b7a64426f01c17d7_big_gallery.jpeg,14,Tuberculoma,14,Tuberculoma,0.871
+15_data_copy/Tuberculoma/148045b44c3755e26a91e470ee5001_big_gallery.jpeg,14,Tuberculoma,14,Tuberculoma,0.8677
+15_data_copy/Tuberculoma/03754e4465d77a4518cd1d2584cda5_big_gallery.jpeg,14,Tuberculoma,10,Neurocitoma,0.348
